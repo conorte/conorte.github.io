@@ -22,7 +22,8 @@
     window.__env.mnuReuniones = true;
     window.__env.mnuPrograma = false;
     window.__env.mnuEmision = true;
-    window.__env.paginaInicio = 'inicio.html';
+    window.__env.emisionAsistencia = false;
+    window.__env.paginaInicio = 'reuniones/emision.html';
     // API url
     window.__env.apiUrl = 'http://dev.your-api.com';
 
